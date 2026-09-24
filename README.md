@@ -40,5 +40,5 @@ I'm a Full-Stack Developer & Student based in Bangkok, Thailand 🇹🇭
 
 ### 📊 GitHub Stats
 
-![Anothai's GitHub stats](https://github-readme-stats.vercel.app/api?username=anothai-sn-dev&show_icons=true&theme=tokyonight)
+![Anothai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anothai-sn-dev&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anothai-sn-dev&layout=compact&theme=tokyonight)
